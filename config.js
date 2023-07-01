@@ -1,5 +1,5 @@
 const nameGirl = 'Đi';
-const giftUrl = '#';
+const giftUrl = 'https://www.facebook.com/ha.nguyenthithu.94214';
 const eventName = 'Mở';
 const titleCard = 'Happy Birthday';
 const contentCard = 'Happy Birthday! Tuổi mới khỏe mạnh, thành công và nhiều tiền nhé';
