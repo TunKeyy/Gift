@@ -1,8 +1,8 @@
 const nameGirl = 'Đi';
 const giftUrl = 'https://www.facebook.com/profile.php?id=100074337730683';
 const eventName = 'Mở';
-const titleCard = 'Happy Birthday My Sister';
-const contentCard = 'Happy Birthday! Tuổi mới khỏe mạnh, học giỏi và luôn vui vẻ nhé!';
+const titleCard = 'Happy Birthday My Sister🎂';
+const contentCard = 'Happy Birthday! Tuổi mới khỏe mạnh, học giỏi và luôn vui vẻ nhé!🎉';
 
 // phần dưới dành cho các bạn biết code, nếu muốn chỉnh ảnh đơn giản với base64
 // Cần hỗ trợ hãy liên hệ: 
